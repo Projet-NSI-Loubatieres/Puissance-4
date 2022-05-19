@@ -7,4 +7,4 @@ Cependant cette dernière ne fonctionne pas après plusieurs tentatives.
 Nous avons donc :
 
   - la version fonctionnelle en format '.exe' ainsi que sa version en format '.py'
-  - la version orientée objet en format '.py'
+  - la version orientée objet en format '.py' ainsi que les classes 'Class_Jouer.py' et 'Class_Grille' dont elle dépend
